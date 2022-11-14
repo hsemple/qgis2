@@ -1,0 +1,22 @@
+
+Welcome
+==========================================
+These tutorials provide an introduction to the QGIS software. They are pitched at the level of an of introductory college level GIS course.
+
+You don't need to know anything about GIS to begin this course. This is a completely beginner-friendly course.
+
+Topics covered by the different tutorials thematic mapping, loading data from different sources, map projections, attribute and spatial queries, terrain 
+mapping and analysis, geocoding, digitizing, geoprocessing, spatial interpolation, and spatial statistics.
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
+
+   launch_qgis.rst
+   thematic_mapping.rst
+   spatial_data.rst
+   map_projections.rst
+
+

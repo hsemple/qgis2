@@ -1,0 +1,18 @@
+
+
+Thematic Mapping
+==========================================
+GIS is concerned with mapping the location of events and phenomena so that users can understand the distributional pattern and incorporate these patterns into decision making.   
+
+A basic way of presenting location information is to use a thematic map. A thematic map shows the spatial distribution of one or more specific data themes for selected geographic areas. The map may be qualitative in nature (e.g., predominant farm types, mineral disstribution in the USA, mountain systems in Canada) or quantitative (e.g., percentage population change, income distribution).
+
+
+In contrast to thematic maps, we have general purpose maps such as topographic maps, which do not focus on a particular theme, but includes a wide variety of information about the natural and built environment.
+
+Both desktop GIS software and web-based mapping platforms have many functions that can be used to create high quality thematic maps
+
+
+With a GIS software, the basic way to make a vector thematic map is to select one of the fields in the attribute table of the map layer and map its contents using the software's thematic mapping engine. The data in a map layer’s field may be quantitative or qualitative. If the data is qualitative, such as soil type or vegetation type, we create a qualitative thematic map.  If the data is quantitative, then we create a quantitative thematic map.
+
+The data in the attribute table can be entered manually or we can join tables obtained from other sources to the attribute table of the shapefile.  With practice, the actual mapping process can be accomplished very quickly.  
+
